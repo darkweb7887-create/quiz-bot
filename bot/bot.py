@@ -28,7 +28,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "7754411305:AAFUQsrXqUkWshJ1Jxc4919hchPIqKmemzk"
+BOT_TOKEN = "TOKEN"
 ADMIN_ID = 1079953976
 WEBAPP_URL = "https://OneTaskQuiz.com"  # Deploy qilgandan keyin o'zgartiring
 
