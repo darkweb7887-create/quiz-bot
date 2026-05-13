@@ -152,7 +152,7 @@ Keyin GitHub ga push qiling — avtomatik deploy bo'ladi.
 ## 🔧 Sozlamalar (bot/bot.py)
 
 ```python
-BOT_TOKEN = "7754411305:AAFUQsrXqUkWshJ1Jxc4919hchPIqKmemzk"
+BOT_TOKEN = "TOKEN"
 ADMIN_ID = 1079953976
 WEBAPP_URL = "https://your-url.com"  # ← BU NI O'ZGARTIRING
 ```
