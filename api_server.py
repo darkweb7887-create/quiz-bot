@@ -18,7 +18,7 @@ from database.db import Database
 app = Flask(__name__, static_folder='webapp/build', static_url_path='')
 CORS(app)
 
-BOT_TOKEN = "7754411305:AAFUQsrXqUkWshJ1Jxc4919hchPIqKmemzk"
+BOT_TOKEN = "TOKEN"
 ADMIN_ID = 1079953976
 db = Database()
 
